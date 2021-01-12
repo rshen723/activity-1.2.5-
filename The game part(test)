@@ -1,1 +1,10 @@
+import r as random 
+import trtl as Turtle 
+
+
+
+adj1=input("pick an adjective (adjectives are describing words)")
+adj2=imput("pic your second adjective")
+adj3=input("pick your third adjective")
+adj4=input("pick your last adjective")
 
