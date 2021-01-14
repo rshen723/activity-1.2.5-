@@ -8,3 +8,16 @@ adj2=imput("pic your second adjective")
 adj3=input("pick your third adjective")
 adj4=input("pick your last adjective")
 
+
+color1=input("pick your first color")
+color2=input("pick your second color")
+
+
+noun1=input("pick a noun (noun is a person,place or thing)")
+noun2=input("pick a second noun")
+noun3=input("pick a third noun")
+
+food=input("pick a food")
+
+
+famperson("pick a famous person")
