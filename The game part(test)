@@ -20,4 +20,27 @@ noun3=input("pick a third noun")
 food=input("pick a food")
 
 
-famperson("pick a famous person")
+famperson=("pick a famous person")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
